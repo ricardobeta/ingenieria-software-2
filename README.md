@@ -7,6 +7,6 @@ juanita 2
 seno
 restar negativos
 coseno
-
+multiplicar negativos
 
 
